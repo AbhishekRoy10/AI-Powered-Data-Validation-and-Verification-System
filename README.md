@@ -4,7 +4,7 @@ Project Overview
 
 Developer: ABHISHEK ROY. R
 
-Description: The AI-Powered Data Validation and Verification System is a pioneering solution designed to efficiently process and validate large datasets using state-of-the-art AI models. This project leverages the capabilities of GPT-4o-mini and Claude-3-Haiku models from LLM Foundry to intelligently analyze and verify the integrity of structured data inputs.
+Description: The AI-Powered Data Validation and Verification System is a pioneering solution designed to efficiently process and validate large datasets using state-of-the-art AI models. This project leverages the capabilities of GPT-35-Turbo and Claude-3-Haiku models from LLM Foundry to intelligently analyze and verify the integrity of structured data inputs.
 
 Goals and Objectives
 
@@ -23,7 +23,7 @@ Concurrent Futures: Enables parallel processing to optimize task execution effic
  Key Features:
 
 Integration with AI Models:
-●	GPT-4o-mini: Used for generating contextually accurate responses, aiding in data verification.
+●	GPT-35-Turbo: Used for generating contextually accurate responses, aiding in data verification.
 ●	Claude-3-Haiku: Provides structured feedback in a conversational format, enhancing the clarity and correctness of results.
 
 AI Models Screenshot:
